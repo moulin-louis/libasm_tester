@@ -1,8 +1,8 @@
 ## Setup:
 ```
-- git clone git@github.com:moulin-louis/libasm_tester.git
-- cd libasm_tester
-- make
+git clone git@github.com:moulin-louis/libasm_tester.git
+cd libasm_tester
+make
 ```
 ## Usage: 
 - ./test_libasm mandatory/bonus/all.
