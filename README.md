@@ -1,5 +1,5 @@
 ## Setup: 
-- git clone git@github.com:moulin-louis/libasm_tester.git && cd libasm_tester
+- git clone `git@github.com:moulin-louis/libasm_tester.git` && cd libasm_tester
 ## Usage: 
 - ./test_libasm mandatory/bonus/all.
 ## Notes:
